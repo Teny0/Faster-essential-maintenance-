@@ -1,0 +1,6 @@
+{
+  "name": "faster essential maintenance",
+  "description": "An Essential Maintenance Management System with role-based dashboards, interactive service dependency maps, preventive maintenance scheduling, and real-time request tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
